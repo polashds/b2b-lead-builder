@@ -1,0 +1,6 @@
+# data/input/search_terms.txt
+# Add your search terms, one per line
+Web Development Agencies
+Plumbing Supplies
+Electrical Contractors
+Marketing Agencies
